@@ -1,16 +1,16 @@
 # GigShield – Weekly Income Protection for Delivery Partners
 
-### 👥 Team Name: Coders  
-### 📦 Repository: Coders_devTrials  
+###  Team Name: Coders  
+
 
 ---
 
-## 🚀 Overview
+##  Overview
 GigShield is a parametric micro-insurance platform designed specifically for delivery partners. It protects them from short-term income loss caused by external conditions like weather, demand fluctuations, and environmental disruptions using a weekly premium model.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Delivery partners in the gig economy face highly unpredictable income. Their earnings are affected by:
 - Heavy rain
 - Extreme heat
@@ -23,7 +23,7 @@ Existing insurance solutions do not address **short-term income instability** in
 
 ---
 
-## 👤 Target User / Persona
+## Target User / Persona
 
 ### Primary Persona
 - **Name:** Harshidh  
@@ -37,7 +37,7 @@ Harshidh depends on weekly earnings for essential expenses. Any disruption direc
 
 ---
 
-## 📌 Persona Scenarios
+## Persona Scenarios
 - Heavy rainfall reduces deliveries  
 - Extreme heat limits working hours  
 - Poor air quality reduces outdoor activity  
@@ -48,7 +48,7 @@ Harshidh depends on weekly earnings for essential expenses. Any disruption direc
 
 ---
 
-## ⚠️ Core Problem
+## Core Problem
 Delivery workers face:
 - Irregular weekly income  
 - No short-term income protection  
@@ -58,7 +58,7 @@ Delivery workers face:
 
 ---
 
-## 💡 Proposed Solution
+## Proposed Solution
 
 GigShield is a **mobile-first web-based parametric insurance platform**.
 
@@ -77,7 +77,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🎯 Why Delivery Partners?
+## Why Delivery Partners?
 - Measurable work patterns  
 - Strong dependency on external factors  
 - Large and growing workforce  
@@ -85,13 +85,13 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 📦 Scope of Coverage
+## Scope of Coverage
 
-### ✅ Included
+### Included
 - Income loss due to external triggers  
 - Reduced earning opportunities  
 
-### ❌ Not Included
+### Not Included
 - Life insurance  
 - Health insurance  
 - Accidents  
@@ -100,7 +100,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🔄 Application Workflow
+## Application Workflow
 
 1. **User Onboarding**
    - Phone number, city, work zone, platform  
@@ -123,7 +123,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 💰 Weekly Premium Model
+## Weekly Premium Model
 
 ### Plans:
 - Basic  
@@ -143,7 +143,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## ⚙️ Parametric Trigger Design
+## Parametric Trigger Design
 
 ### Triggers:
 - Heavy rainfall  
@@ -160,7 +160,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🧠 AI/ML Integration
+## AI/ML Integration
 
 ### Use Cases:
 - Risk scoring  
@@ -176,7 +176,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🔐 Fraud Prevention
+## Fraud Prevention
 
 ### Checks:
 - Location mismatch  
@@ -191,7 +191,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🌐 Platform Choice
+## Platform Choice
 
 ### Phase 1:
 - Mobile-first web app  
@@ -203,7 +203,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend:
 - React.js  
@@ -225,7 +225,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🧪 Minimal Prototype (Phase 1)
+## Minimal Prototype (Phase 1)
 
 - Signup page  
 - Plan selection  
@@ -236,7 +236,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 📅 Development Plan
+## Development Plan
 
 ### Phase 1
 - Idea & design  
@@ -254,7 +254,7 @@ GigShield is a **mobile-first web-based parametric insurance platform**.
 
 ---
 
-## 🌍 Expected Impact
+## Expected Impact
 
 GigShield helps:
 - Reduce financial stress  
@@ -264,7 +264,7 @@ GigShield helps:
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 GigShield provides a **fast, transparent, and scalable income protection system** for delivery partners using:
 - Weekly premium model  
