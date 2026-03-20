@@ -1,7 +1,7 @@
 # SafeLance – Weekly Income Protection for Delivery Partners
 
 ### Team: Coders  
-### Repository: Coders_devTrials  
+
 
 ---
 
