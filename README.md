@@ -349,3 +349,8 @@ By combining:
 It creates a fair, scalable, and practical solution.
 
 ---
+## 📄 Detailed Documentation
+
+You can view the complete project document here:
+
+[Download Full SafeLance Document](./SafeLance_Coders.docx)
